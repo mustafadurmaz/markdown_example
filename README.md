@@ -6,19 +6,19 @@ Markdown öğrenmeye başladım.(02.02/2020)
 - first time
 - second time
 - third time
-  -indented
-    1.inner number
+  - indented
+    1. inner number
     
  [This is the description](http://www.google.com.tr)
  
- This paragraph has some 'valuable' inline code.
+ This paragraph has some `variable` inline code.
  
- '''html
+ ```html
  <p>A paragraph example </p>
- '''
- '''javascript
+ ```
+ ```javascript
  let num=Math.random();
- '''
+ ```
  
  ![alt text](http://picsum.photos/200/200)
  
@@ -30,4 +30,4 @@ Markdown öğrenmeye başladım.(02.02/2020)
  | content | more content | text |
  | more | more | more |
  
- This is being * created * on a ** Friday ** ~~Saturday~~.
+ This is being *created* on a **Friday** ~~Saturday~~.
